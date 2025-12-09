@@ -2,4 +2,8 @@
 
 ## What I learnt 
 
-## how would it benefit the community
+## how can it help the community 
+
+## Features 
+
+## Preview
