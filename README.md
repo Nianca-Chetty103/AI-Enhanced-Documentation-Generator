@@ -1,4 +1,4 @@
-# AI-Enhanced-Documentation-Generator
+# AI-Enhanced-Documentation-Generator 📁
 This program or tool i built will be able to help create, edit and format documents automatically for users.
 
 ## What I learnt 
