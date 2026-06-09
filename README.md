@@ -1,5 +1,5 @@
 # AI-Enhanced-Documentation-Generator 📁
-This program or tool i built will be able to help create, edit and format documents automatically for users.
+This program or tool i built will be able to help create, edit and format documents automatically for users. Helpful for project managers to keep track of the team
 
 ## What I learnt 
 
